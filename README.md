@@ -57,7 +57,7 @@ https://developer.github.com/v3/
 
 https://start.spring.io/
 
-# Lecture 5 Links:
+# Other Links:
 
 Heroku
 
