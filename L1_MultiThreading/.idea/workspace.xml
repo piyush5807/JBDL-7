@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07151647-a344-477b-9b5d-52f91b1b403b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JBDL-5/Lecture_3_REST_APIs_MyApp5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/spring-beans/spring-beans" />
   </component>
   <component name="RunManager" selected="Application.VolatileExample">
     <configuration name="BankOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -147,10 +147,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598802279249" />
-    <state x="413" y="65" key="FileChooserDialogImpl" timestamp="1598806849885">
+    <state x="413" y="65" key="FileChooserDialogImpl" timestamp="1599399545044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="65" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598806849885" />
+    <state x="413" y="65" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599399545044" />
     <state width="1311" height="399" key="GridCell.Tab.0.bottom" timestamp="1598808818154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
