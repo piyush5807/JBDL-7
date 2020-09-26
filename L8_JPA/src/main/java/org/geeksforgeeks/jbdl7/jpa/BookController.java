@@ -52,7 +52,7 @@ public class BookController {
 //
     @GetMapping("/book/{author}")
     public List<Book> getBooksByAuthorName2(@PathVariable("author") String author) throws SQLException {
-        return repository.findBookByAuthorSQL(author);
+        return repository.findByauthorName(author);
     }
 //
 //    @PostMapping("/create_table")
