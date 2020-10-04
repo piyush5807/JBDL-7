@@ -93,6 +93,38 @@ RestTemplate & Microservices
 
 https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 
+=========================================================
+
+# Links for Git, GitHub & Heroku:
+https://guides.github.com/activities/hello-world/
+https://youtu.be/QTOkqzCTGxw
+https://youtu.be/xuB1Id2Wxak
+https://www.kindsonthegenius.com/devops-ci-cd-pipeline-step-by-step-tutorial-springboot-github-heroku/
+https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku
+
+
+
+# Spring Actuator:
+https://youtu.be/ojc_Jy_0EgI
+https://www.callicoder.com/spring-boot-actuator/
+
+
+
+# Redis:
+https://youtu.be/Hbt56gFj998
+https://youtu.be/YWIzp3fRvvY
+https://redislabs.com/blog/redis-on-windows-10/
+
+
+# kafka :
+https://www.youtube.com/watch?v=W4_aGb_MOls&ab_channel=HusseinNasser
+https://www.youtube.com/watch?v=oUJbuFMyBDk&ab_channel=GauravSen
+https://www.youtube.com/watch?v=FMhbR_kQeHw&t=574s&ab_channel=GauravSen
+https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
+https://youtu.be/hyJZP-rgooc
+
+
 
 ============================= Useful YouTube Playlists:
 
