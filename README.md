@@ -1,5 +1,7 @@
 # JBDL-7
 
+https://docs.google.com/document/d/1eXoc0zLfM7gWoTTZfPAi_EujJIh7vdoDQmAQiAGYm94/edit?usp=sharing
+
 # Agenda for the next week (2nd Week):
 
 Intro to Spring / Spring Boot
