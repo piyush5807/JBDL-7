@@ -21,6 +21,7 @@ public class MyUser implements UserDetails {
     private String username;
     private String password;
     private String authorities;
+    // "admin:user"
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {

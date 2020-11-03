@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
     @Autowired
-    UserRepository userRepository;
+    MyUserRepository userRepository;
 
     @GetMapping("/user")
     public String getUser(@RequestParam("name") String name){

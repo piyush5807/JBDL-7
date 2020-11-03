@@ -7,18 +7,18 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestController {
 
-    @GetMapping("/user")
-    public String getUser(@RequestParam("name") String name){
-        return "Hello user - " + name;
+    @GetMapping("/user") // /user/**
+    public String getUser(){
+        return "Hello user - ";
     }
 
-    @GetMapping("/admin")
-    public String getAdmin(@RequestParam("name") String name){
-        return "Hello Admin - " + name;
+    @GetMapping("/admin") //
+    public String getAdmin() {
+        return "Hello Admin - ";
     }
 
-    @GetMapping("/general")
-    public String getPerson(@RequestParam("name") String name){
-        return "Hello Person - " + name;
+    @GetMapping("/general") // /**
+    public String getPerson() {
+        return "Hello Person - ";
     }
 }

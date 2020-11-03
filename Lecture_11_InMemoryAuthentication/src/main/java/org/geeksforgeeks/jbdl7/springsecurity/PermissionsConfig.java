@@ -16,11 +16,11 @@ public class PermissionsConfig extends WebSecurityConfigurerAdapter {
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
         auth.inMemoryAuthentication()
                 .withUser("piyush")
-                .password("piyush1234")
+                .password("piyush123")
                 .authorities("ADMIN")
                 .and()
                 .withUser("rahul")
-                .password("rahul1234")
+                .password("rahul123")
                 .authorities("USER");
 
     }
@@ -39,6 +39,7 @@ public class PermissionsConfig extends WebSecurityConfigurerAdapter {
 
     @Bean
     public PasswordEncoder getMyPasswordEncoder(){
+
         return NoOpPasswordEncoder.getInstance();
     }
 }
